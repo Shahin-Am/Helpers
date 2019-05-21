@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Helpers</string>
+    <string name="param_tre">Paramètre</string>
+    <string name="pr_nom">Prénom</string>
+    <string name="nom">Nom</string>
+    <string name="mes_demandes">Mes demandes</string>
+    <string name="todo">TODO</string>
+</resources>
